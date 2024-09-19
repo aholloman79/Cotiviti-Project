@@ -1,0 +1,2 @@
+Cotiviti R Prediction Project
+This project explores predictive analytics using R, focusing on healthcare data to identify patterns and trends for cost optimization and quality improvement. I utilized various statistical models, including regression and decision trees, to analyze and visualize key insights. The project aims to enhance decision-making processes by leveraging data-driven predictions.
